@@ -1,3 +1,9 @@
+#Name: Jack Basner
+#Email: jbasner@umich.edu
+#Student ID: 3524 5792
+#Collaborators: Jesse Goodman, Emily Vanek
+
+
 from xml.sax import parseString
 from bs4 import BeautifulSoup
 import re
